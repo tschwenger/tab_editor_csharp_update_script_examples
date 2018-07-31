@@ -6,6 +6,9 @@
 * note, developer still needs to create and code the base measure and everything else will cascade down
 * also note, the ytd, ptd, and qtd work for a non contiguous date table, note that it is better practice to use a contiguous date table
 so that standard time intelligence functions can be used (ie totalytd, sameperiodaslastyear, datesytd etc)
+* all the developer needs to do after copying and replacing is to insert the script into the model bim file via sublime text or any text 
+editor. 
+
 
             ,
                       {
